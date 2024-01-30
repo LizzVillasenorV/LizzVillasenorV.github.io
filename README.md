@@ -12,30 +12,31 @@
     ✨ He participado en análisis y pruebas estáticas/dinámicas, desarrollo de métricas, informes de ejecución, Dailys, Walktrough, HotFix y clasificación de errores. </label></p>
    
 <p><label>
+<dl>
 🧠 Conocimientos en: 🧠
 <br/>
-<ul>Pruebas
-<li>de funcionalidad </li>
-<li> de humo  </li>
-<li> estáticas</li>  
-<li> de usabilidad  </li>
-<li> de regresión  </li>
-</ul>
-
-<ul>Base de datos
-<li> Microsoft SQL: Consultas, inserción, Actualización y eliminación. </li>
-<li>  MongoDB: Consultas y validación de actualización de datos. </li>
-<li>  Oracle SQL: Consultas, inserción, Actualización y eliminación. </li>
-</ul>
+<dt>Pruebas</dt>
+<dd>de funcionalidad </dd>
+<dd> de humo  </dd>
+<dd> estáticas</dd>  
+<dd> de usabilidad  </dd>
+<dd> de regresión  </dd>
+<br/>
+<dt>Base de datos</dt>
+<dd>Microsoft SQL: Consultas, inserción, Actualización y eliminación.</dd>
+<dd> MongoDB: Consultas y validación de actualización de datos.</dd>
+<dd>Oracle SQL: Consultas, inserción, Actualización y eliminación. </dd>
+<br/>
+</dl>
+<dl>
+⚔️ Habilidades en: ⚔️ <br/>
+<dt>📱 Dispositivos: </dt>
+<dd>Pruebas Mobile iOS y Android</dd>
+<dt>💁 Programación:<dt>
+<dd>HTML - Básico</dd>
+<dd>JavaScript - Aprendiz</dd>
+<dl>
 </label></p>
-
-<p><label>
-⚔️ Habilidades en: ⚔️ 
-📱 Dispositivos: 
-<li>Pruebas Mobile iOS y Android</li><br/>
-💁 Programación:
-<li>HTML - Básico</li>
-<li>JavaScript - Aprendiz</li><br/>
 
 ℹ️ Lista de recurso de estudio <br/>
 <a href="https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4"> Notion </a>
