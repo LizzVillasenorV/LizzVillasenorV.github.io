@@ -1,6 +1,6 @@
 # Espacio para documentar mis conocimientos y habilidades  
 
-[ENLACE A MI CV EN PDF](https://github.com/LizzVillasenorV/portaLizz/blob/e0bd0af6abee1ce56e5e2e71f91bde1ce7b8cb8c/QA%20MX%20-%20LIZBET%20VILLASE%C3%91OR%20VINAGRE.pdf) 
+[ENLACE A MI CV EN PDF](https://github.com/LizzVillasenorV/LizzVillasenorV.github.io/blob/fdd403b4dbdf01ce4cea963bcf2f97b71f74658c/QA%20MX%20-%20LIZBET%20VILLASE%C3%91OR%20VINAGRE.pdf) 
 
 ### Qa Analyst :mag_right: +5 exp 🇲🇽
 
