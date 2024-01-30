@@ -14,7 +14,7 @@
    
 <a href="https://drive.google.com/file/d/12-8sK49h3ffVTn6BCWe5LniYAYfSYdLy/view" target="_blank"> Aqui está mi CV para descargar en formato PDF </a> <br/>
 
-<p>
+<div>
 <dl>
 🧠 Conocimientos en: 🧠
 <br/>
@@ -39,7 +39,7 @@
 <dd>HTML - Básico</dd>
 <dd>JavaScript - Aprendiz</dd>
 <dl>
-</p>
+</div>
 
 
 
