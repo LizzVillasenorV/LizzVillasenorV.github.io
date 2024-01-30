@@ -11,6 +11,7 @@
     ✨ Apoyo a la mejora del software con mis habilidades para detectar inconsistencias funcionales y visuales.<br/>
     ✨ He participado en análisis y pruebas estáticas/dinámicas, desarrollo de métricas, informes de ejecución, Dailys, Walktrough, HotFix y clasificación de errores. </label></p>
    
+<a href="https://drive.google.com/file/d/12-8sK49h3ffVTn6BCWe5LniYAYfSYdLy/view" target="_blank"> Aqui está mi CV para descargar en formato PDF </a> 
 
 <dl>
 🧠 Conocimientos en: 🧠
@@ -38,12 +39,7 @@
 <dl>
 
 
-<p><label>
-ℹ️ Lista de recurso de estudio <br/>
-<a href="https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4"> Notion </a>
-<br/>
-<a href="https://drive.google.com/file/d/12-8sK49h3ffVTn6BCWe5LniYAYfSYdLy/view" target="_blank"> Aqui está mi CV para descargar en formato PDF </a>
-</label></p>
+
 
 
 
