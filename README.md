@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Espacio para documentar mis conocimientos y habilidades  </title>
+    <title></title>
   </head>
   <body>  
     <h1>Qa Analyst +5 exp 🇲🇽</h1>
