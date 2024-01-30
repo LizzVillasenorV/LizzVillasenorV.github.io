@@ -1,6 +1,6 @@
 # Espacio para documentar mis conocimientos y habilidades  
 
-[ENLACE A MI CV EN PDF] <script src="CV-QA LIZZ.js"></script>
+<script src="CV-QA LIZZ.js">ENLACE A MI CV EN PDF</script>
 
 ### Qa Analyst :mag_right: +5 exp 🇲🇽
 
