@@ -1,13 +1,19 @@
-# Espacio para documentar mis conocimientos y habilidades  
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Espacio para documentar mis conocimientos y habilidades  </title>
+  </head>
+  <body>  
+    <h1>Qa Analyst +5 exp 🇲🇽</h1>
+    <p><label>
+    ✨ Apoyo a la mejora del software con mis habilidades para detectar inconsistencias funcionales y visuales.
+    ✨ He participado en análisis y pruebas estáticas/dinámicas, desarrollo de métricas, informes de ejecución, Dailys, Walktrough, HotFix y clasificación de errores. </label></p>
+    <p><label>Aqui está mi CV para descargar en formato PDF</label></p>
 
-<script src="CV-QA LIZZ.js">ENLACE A MI CV EN PDF</script>
-
-### Qa Analyst :mag_right: +5 exp 🇲🇽
-
-✨ Apoyo a la mejora del software con mis habilidades para detectar inconsistencias funcionales y visuales.
-✨ He participado en análisis y pruebas estáticas/dinámicas, desarrollo de métricas, informes de ejecución, Dailys, Walktrough, HotFix y clasificación de errores.  
-
-## 🧠 Conocimientos en: 🧠 ##  
+    <p><label>
+    ## 🧠 Conocimientos en: 🧠 ##  
 - Pruebas
   - de funcionalidad  
   - de humo  
@@ -20,7 +26,25 @@
   -   MongoDB: Consultas y validación de actualización de datos.
   -   Oracle SQL: Consultas, inserción, Actualización y eliminación.
     
-## ⚔️ Habilidades en: ⚔️ ##  
+    </label></p>
+
+    <p><label>
+    ## 🧠 Conocimientos en: 🧠 ##  
+- Pruebas
+  - de funcionalidad  
+  - de humo  
+  - estáticas  
+  - de usabilidad  
+  - de regresión  
+
+- Base de datos
+  -   Microsoft SQL: Consultas, inserción, Actualización y eliminación.
+  -   MongoDB: Consultas y validación de actualización de datos.
+  -   Oracle SQL: Consultas, inserción, Actualización y eliminación.
+    
+    </label></p>
+ <p><label>
+    ⚔️ Habilidades en: ⚔️ ##  
 
 📱 Dispositivos:  
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -37,3 +61,9 @@
 Musica favorita  
 [![Favorite Music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
 
+ </label></p>
+    <input type="file" id="subir_archivo" />
+    <div id="resultado"></div>
+    <script type="text/javascript" src="resources/js/scripts.js"></script>
+  </body>
+</html>
