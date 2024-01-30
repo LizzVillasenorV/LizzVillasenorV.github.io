@@ -21,7 +21,7 @@
 <dd> estáticas</dd>  
 <dd> de usabilidad  </dd>
 <dd> de regresión  </dd>
-<br/>
+
 <dt>Base de datos</dt>
 <dd>Microsoft SQL: Consultas, inserción, Actualización y eliminación.</dd>
 <dd> MongoDB: Consultas y validación de actualización de datos.</dd>
