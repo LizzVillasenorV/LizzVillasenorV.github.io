@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title></title>
   </head>
-  <body>  
+<body>  
     <h1>Qa Analyst +5 exp 🇲🇽</h1>
     <p><label>
     ✨ Apoyo a la mejora del software con mis habilidades para detectar inconsistencias funcionales y visuales.<br/>
