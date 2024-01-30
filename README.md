@@ -11,25 +11,29 @@
     ✨ Apoyo a la mejora del software con mis habilidades para detectar inconsistencias funcionales y visuales.
     ✨ He participado en análisis y pruebas estáticas/dinámicas, desarrollo de métricas, informes de ejecución, Dailys, Walktrough, HotFix y clasificación de errores. </label></p>
     <p><label>Aqui está mi CV para descargar en formato PDF</label></p>
-    <iframe src="C:\Users\Lizz\Documents\GitHub\LizzVillasenorV.github.io\pdfjs-4.0.379-dist\web\viewer.html?file=C:\Users\Lizz\Documents\GitHub\LizzVillasenorV.github.io\resourcesQA MX - LIZBET VILLASEÑOR VINAGRE.pdf"></iframe>
+    <iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/12-8sK49h3ffVTn6BCWe5LniYAYfSYdLy/view?usp=drive_link &embedded=true" style="width:100%; height:700px;" frameborder="0"></iframe>
 
 <p><label>
 🧠 Conocimientos en: 🧠
 <br/>
 <li>
-- Pruebas
-  - de funcionalidad  
-  - de humo  
-  - estáticas  
-  - de usabilidad  
-  - de regresión  
+Pruebas
+<ul>
+  de funcionalidad  
+  de humo  
+  estáticas  
+  de usabilidad  
+  de regresión  
+</ul>
 </li>
 
 <li>
 - Base de datos
-  -   Microsoft SQL: Consultas, inserción, Actualización y eliminación.
-  -   MongoDB: Consultas y validación de actualización de datos.
-  -   Oracle SQL: Consultas, inserción, Actualización y eliminación.
+<ul>
+  Microsoft SQL: Consultas, inserción, Actualización y eliminación.
+  MongoDB: Consultas y validación de actualización de datos.
+  Oracle SQL: Consultas, inserción, Actualización y eliminación.
+</ul>
 </li>
 </label></p>
 
@@ -43,12 +47,15 @@ Pruebas Mobile iOS y Android
 💁 Programación:
 <li>
 HTML Básico
+</li>
+<li>
 JavaScript Aprendiz
 </li>
 <br/>
 
 ℹ️ Lista de recurso de estudio <br/>
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4)   
+<a href="https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4"> Notion </a>
+
 </label></p>
 
   </body>
