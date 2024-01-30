@@ -11,6 +11,7 @@
     ✨ Apoyo a la mejora del software con mis habilidades para detectar inconsistencias funcionales y visuales.
     ✨ He participado en análisis y pruebas estáticas/dinámicas, desarrollo de métricas, informes de ejecución, Dailys, Walktrough, HotFix y clasificación de errores. </label></p>
     <p><label>Aqui está mi CV para descargar en formato PDF</label></p>
+    <iframe src="file:///C:/Users/Lizz/Documents/GitHub/LizzVillasenorV.github.io/pdfjs-4.0.379-dist/web/viewer.html?file=C:\Users\Lizz\Documents\GitHub\LizzVillasenorV.github.io\resources\QA MX - LIZBET VILLASEÑOR VINAGRE.pdf"></iframe>
 
     <p><label>
     ## 🧠 Conocimientos en: 🧠 ##  
@@ -62,8 +63,5 @@ Musica favorita
 [![Favorite Music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
 
  </label></p>
-    <input type="file" id="subir_archivo" />
-    <div id="resultado"></div>
-    <script type="text/javascript" src="resources/js/scripts.js"></script>
   </body>
 </html>
