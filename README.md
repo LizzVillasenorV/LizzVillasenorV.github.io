@@ -33,7 +33,7 @@
 ⚔️ Habilidades en: ⚔️ <br/>
 <dt>📱 Dispositivos: </dt>
 <dd>Pruebas Mobile iOS y Android</dd>
-<dt>💁 Programación:<dt>
+<dt>💁 Programación:</dt>
 <dd>HTML - Básico</dd>
 <dd>JavaScript - Aprendiz</dd>
 </dl>
