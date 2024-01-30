@@ -38,6 +38,7 @@
 <dl>
 </label></p>
 
+<p><label>
 ℹ️ Lista de recurso de estudio <br/>
 <a href="https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4"> Notion </a>
 </label></p>
