@@ -14,8 +14,7 @@
 <p><label>
 🧠 Conocimientos en: 🧠
 <br/>
-<ul>
-Pruebas
+<ul>Pruebas
 <li>de funcionalidad </li>
 <li> de humo  </li>
 <li> estáticas</li>  
@@ -23,8 +22,7 @@ Pruebas
 <li> de regresión  </li>
 </ul>
 
-<ul>
-Base de datos
+<ul>Base de datos
 <li> Microsoft SQL: Consultas, inserción, Actualización y eliminación. </li>
 <li>  MongoDB: Consultas y validación de actualización de datos. </li>
 <li>  Oracle SQL: Consultas, inserción, Actualización y eliminación. </li>
@@ -32,20 +30,12 @@ Base de datos
 </label></p>
 
 <p><label>
-    ⚔️ Habilidades en: ⚔️ 
-<br/>
+⚔️ Habilidades en: ⚔️ 
 📱 Dispositivos: 
-<li>
-Pruebas Mobile iOS y Android
-</li><br/>
+<li>Pruebas Mobile iOS y Android</li><br/>
 💁 Programación:
-<li>
-HTML - Básico
-</li>
-<li>
-JavaScript - Aprendiz
-</li>
-<br/>
+<li>HTML - Básico</li>
+<li>JavaScript - Aprendiz</li><br/>
 
 ℹ️ Lista de recurso de estudio <br/>
 <a href="https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4"> Notion </a>
