@@ -15,7 +15,7 @@
 
 <p><label>
 🧠 Conocimientos en: 🧠
-</br>
+<br/>
 <li>
 - Pruebas
   - de funcionalidad  
@@ -35,19 +35,19 @@
 
 <p><label>
     ⚔️ Habilidades en: ⚔️ 
-</br>
+<br/>
 📱 Dispositivos: 
 <li>
 Pruebas Mobile iOS y Android
-</li></br>
+</li><br/>
 💁 Programación:
 <li>
 HTML Básico
 JavaScript Aprendiz
 </li>
-</br>
+<br/>
 
-ℹ️ Lista de recurso de estudio </br>
+ℹ️ Lista de recurso de estudio <br/>
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4)   
 </label></p>
 
