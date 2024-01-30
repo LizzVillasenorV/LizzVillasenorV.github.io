@@ -18,6 +18,7 @@
 <br/>
 <li>
 Pruebas
+</li>
 <ul>
   de funcionalidad  
   de humo  
@@ -25,16 +26,16 @@ Pruebas
   de usabilidad  
   de regresión  
 </ul>
-</li>
+
 
 <li>
-- Base de datos
+Base de datos
+</li>
 <ul>
   Microsoft SQL: Consultas, inserción, Actualización y eliminación.
   MongoDB: Consultas y validación de actualización de datos.
   Oracle SQL: Consultas, inserción, Actualización y eliminación.
 </ul>
-</li>
 </label></p>
 
 <p><label>
@@ -46,10 +47,10 @@ Pruebas Mobile iOS y Android
 </li><br/>
 💁 Programación:
 <li>
-HTML Básico
+HTML - Básico
 </li>
 <li>
-JavaScript Aprendiz
+JavaScript - Aprendiz
 </li>
 <br/>
 
