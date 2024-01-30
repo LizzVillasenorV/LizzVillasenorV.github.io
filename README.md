@@ -13,54 +13,43 @@
     <p><label>Aqui está mi CV para descargar en formato PDF</label></p>
     <iframe src="C:\Users\Lizz\Documents\GitHub\LizzVillasenorV.github.io\pdfjs-4.0.379-dist\web\viewer.html?file=C:\Users\Lizz\Documents\GitHub\LizzVillasenorV.github.io\resourcesQA MX - LIZBET VILLASEÑOR VINAGRE.pdf"></iframe>
 
-    <p><label>
-    ## 🧠 Conocimientos en: 🧠 ##  
+<p><label>
+🧠 Conocimientos en: 🧠
+</br>
+<li>
 - Pruebas
   - de funcionalidad  
   - de humo  
   - estáticas  
   - de usabilidad  
   - de regresión  
+</li>
 
+<li>
 - Base de datos
   -   Microsoft SQL: Consultas, inserción, Actualización y eliminación.
   -   MongoDB: Consultas y validación de actualización de datos.
   -   Oracle SQL: Consultas, inserción, Actualización y eliminación.
-    
-    </label></p>
+</li>
+</label></p>
 
-    <p><label>
-    ## 🧠 Conocimientos en: 🧠 ##  
-- Pruebas
-  - de funcionalidad  
-  - de humo  
-  - estáticas  
-  - de usabilidad  
-  - de regresión  
-
-- Base de datos
-  -   Microsoft SQL: Consultas, inserción, Actualización y eliminación.
-  -   MongoDB: Consultas y validación de actualización de datos.
-  -   Oracle SQL: Consultas, inserción, Actualización y eliminación.
-    
-    </label></p>
- <p><label>
-    ⚔️ Habilidades en: ⚔️ ##  
-
-📱 Dispositivos:  
+<p><label>
+    ⚔️ Habilidades en: ⚔️ 
+</br>
+📱 Dispositivos: 
+<li>
 Pruebas Mobile iOS y Android
-
+</li></br>
 💁 Programación:
+<li>
 HTML Básico
 JavaScript Aprendiz
+</li>
+</br>
 
-ℹ️ Lista de recurso de estudio 
+ℹ️ Lista de recurso de estudio </br>
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4)   
+</label></p>
 
-🎵 Hobbies 💃
-Musica favorita  
-
-
- </label></p>
   </body>
 </html>
