@@ -29,9 +29,7 @@
 <dd>Microsoft SQL: Consultas, inserción, Actualización y eliminación.</dd>
 <dd> MongoDB: Consultas y validación de actualización de datos.</dd>
 <dd>Oracle SQL: Consultas, inserción, Actualización y eliminación. </dd>
-<br/>
-</dl>
-<dl>
+
 ⚔️ Habilidades en: ⚔️ <br/>
 <dt>📱 Dispositivos: </dt>
 <dd>Pruebas Mobile iOS y Android</dd>
