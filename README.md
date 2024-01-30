@@ -49,10 +49,10 @@ JavaScript - Aprendiz
 
 ℹ️ Lista de recurso de estudio <br/>
 <a href="https://lizzvillasenorv.notion.site/de80c2eeaa4c4ad981f8d6eac6f034b5?v=6942a493cb9448a0a19868086108e914&pvs=4"> Notion </a>
-</p></label>
+</label></p>
 
 <p><label>
-<a href="https://drive.google.com/file/d/12-8sK49h3ffVTn6BCWe5LniYAYfSYdLy/view"> Aqui está mi CV para descargar en formato PDF </a>
+<a href="https://drive.google.com/file/d/12-8sK49h3ffVTn6BCWe5LniYAYfSYdLy/view" target="_blank"> Aqui está mi CV para descargar en formato PDF </a>
 </label></p>
 
   </body>
