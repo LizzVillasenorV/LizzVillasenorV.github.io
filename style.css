@@ -76,8 +76,8 @@ z-index: -1;
 }
 /* Colores Twitter */
 .tarjeta.ttwitter a {
-color: #ddd;
-background-color: #01AFEC;
+color: #000;
+background-color: #000000;
 border-top: 2px solid #43CFFE;
 }
 
