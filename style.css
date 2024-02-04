@@ -6,7 +6,9 @@ box-sizing: border-box;
 }
 /* Contenedor general */
 .cartera {
-position: relative;
+position: fixed;
+bottom: 0;
+right: 50;
 width: 100%;
 max-width: 500px;
 margin: 40px auto 0;
