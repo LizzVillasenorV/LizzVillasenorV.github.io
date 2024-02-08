@@ -60,12 +60,7 @@ body {
 .fakeimg {
   background-color: #aaa;
   padding: 20px;
-  width: 200px;
-  height: 200px;
-}
-
-.cover {
-  object-fit: contain;
+  width: 100%;
 }
 
 /* Add a card effect for articles */
