@@ -59,7 +59,7 @@ body {
 /* Fake image */
 .fakeimg {
   background-color: #aaa;
-  width: auto;
+  width: 100;
   padding: 20px;
 }
 
