@@ -64,6 +64,10 @@ body {
 
 }
 
+.cover {
+  object-fit: cover;
+}
+
 /* Add a card effect for articles */
 .card {
   background-color: white;
