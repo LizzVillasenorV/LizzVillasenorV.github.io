@@ -100,4 +100,10 @@ h1.concss {
 
 h1 {
   text-align: center;
+    margin-left: 20px;
+}
+
+body {
+  background-color: lightblue;
+    margin-left: 20px;
 }
