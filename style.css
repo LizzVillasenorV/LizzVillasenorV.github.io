@@ -45,13 +45,13 @@ body {
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 65%;
+  width: 80%;
 }
 
 /* Right column */
 .rightcolumn {
   float: left;
-  width: 35%;
+  width: 20%;
   background-color: #f1f1f1;
   padding-left: 40px;
 }
