@@ -63,8 +63,8 @@ body {
   width: 100%;
 }
 
-.cover {
-  object-fit: cover;
+.contain {
+  object-fit: contain;
 }
 
 /* Add a card effect for articles */
