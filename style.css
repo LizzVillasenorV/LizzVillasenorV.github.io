@@ -45,15 +45,15 @@ body {
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 65%;
+  width: 70%;
 }
 
 /* Right column */
 .rightcolumn {
   float: left;
-  width: 35%;
+  width: 30%;
   background-color: #f1f1f1;
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 /* Fake image */
